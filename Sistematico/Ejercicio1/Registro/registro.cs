@@ -39,7 +39,14 @@ namespace Ejercicio1.Registro
 
         public string[] GetApellidos()
         {
-
+            return apellidos.Take(contador).ToArray();
         }
+
+        public DateTime[] GetFechasdeNacimiento()
+        {
+            return fechasNacimiento.Take(contador).ToArray();
+        }
+
+
     }
 }

@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{CA3A4FC3-04F2-4345-AA8D-6536A270A12B}|Ejercicio1\\Corte1.csproj|solutionrelative:ejercicio1\\registro\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA3A4FC3-04F2-4345-AA8D-6536A270A12B}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\andrea\\documents\\sistematico\\sistematico\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA3A4FC3-04F2-4345-AA8D-6536A270A12B}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\andrea\\Documents\\Sistematico\\Sistematico\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA3A4FC3-04F2-4345-AA8D-6536A270A12B}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA3A4FC3-04F2-4345-AA8D-6536A270A12B}|Ejercicio1\\Corte1.csproj|c:\\users\\andrea\\documents\\sistematico\\sistematico\\ejercicio1\\persona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA3A4FC3-04F2-4345-AA8D-6536A270A12B}|Ejercicio1\\Corte1.csproj|C:\\Users\\andrea\\Documents\\Sistematico\\Sistematico\\ejercicio1\\persona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA3A4FC3-04F2-4345-AA8D-6536A270A12B}|Ejercicio1\\Corte1.csproj|solutionrelative:ejercicio1\\persona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -56,8 +56,7 @@
               "RelativeToolTip": "Ejercicio1\\Persona\\persona.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T15:25:07.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T15:25:07.859Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "ToolTip": "C:\\Users\\andrea\\Documents\\Sistematico\\Sistematico\\Ejercicio1\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ejercicio1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T15:15:57.205Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-23T15:15:57.205Z"
             }
           ]
         }
